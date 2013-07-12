@@ -1,4 +1,4 @@
 texttexttext add another text
-
+and some text
 text
 how work merge
